@@ -3,6 +3,7 @@
 To develop a 2D game using C# program in unity .
 
 ## ALGORITHM:
+
 ### STEP 1:
 Create a 2D project in unity.
 
